@@ -1,3 +1,4 @@
+/* Función que busca el trabajador con a máxima facturación anual */
 function comercial(tIngr){
     let name ="";
     let maximo = 0;
