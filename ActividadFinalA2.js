@@ -1,4 +1,4 @@
-/* Función que busca el trabajador con a máxima facturación anual */
+/* Función que busca el trabajador con a máxima facturación anual. el array es un array de objetos*/
 function comercial(tIngr){
     let name ="";
     let maximo = 0;
